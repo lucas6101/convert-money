@@ -61,3 +61,6 @@ button {
     margin-top: 15px;
     margin-left: 41px;
 }
+button:active{
+    opacity: 0,5;
+}
